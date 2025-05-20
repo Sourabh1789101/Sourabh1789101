@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sourabh Kumar 👋</h1>
 
 <p align="center">
-  <b>B.Tech CSE Student</b> | Aspiring <b>AI Engineer</b> <br/>
+  <b>B.Tech CSE Student</b> | Aspiring <b>AI Engineer</b><br/>
   <i>Learning through building. Creating with curiosity. Evolving every day.</i>
 </p>
 
@@ -13,8 +13,8 @@
 Currently focused on blending **AI**, **web development**, and **cloud-native solutions** through hands-on learning and impactful collaborations.
 
 ### 🚀 I’m Currently Working On:
-- Developing **AI/ML models** for academic + personal projects
-- Creating immersive experiences like **game zone tours** and **e-commerce automation**
+- Developing **AI/ML models** for academic + personal projects  
+- Creating immersive experiences like **game zone tours** and **e-commerce automation**  
 - Building scalable backends and deploying with **CI/CD pipelines**
 
 ### 🤝 Open to Collaborations In:
@@ -25,7 +25,7 @@ Currently focused on blending **AI**, **web development**, and **cloud-native so
 ### 🙋‍♂️ Looking for Guidance In:
 - Advanced Machine Learning & Optimization  
 - Scalable ML Model Deployment (Docker, Kubernetes, AWS)  
-- Contributing to Research or Open Source AI Projects  
+- Contributing to Research or Open Source AI Projects
 
 ---
 
@@ -104,34 +104,41 @@ Currently focused on blending **AI**, **web development**, and **cloud-native so
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SourabhKumar&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sourabh1789101&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SourabhKumar&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Sourabh1789101&theme=dark&hide_border=false" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SourabhKumar&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourabh1789101&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SourabhKumar&theme=default&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sourabh1789101&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SourabhKumar&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
-
+### 🔝 Top Contributed Repos
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Sourabh1789101&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
 
 ---
 
 ### ✍️ Quote to Code By:
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SourabhKumar&icon=0&color=0" alt="Profile Visits"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+### 🔢 Visitor Count:
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Sourabh1789101&icon=0&color=0" alt="Profile Visits"/>
 </p>
 
 ---
 
 > 🚧 **Maintained with ❤️ using [GPRM](https://gprm.itsvg.in)**
-
